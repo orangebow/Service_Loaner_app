@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Loaner Request">fd373d1259f003107f44ccfad0de3e1b</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Loaner Requests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_loaner_r_0_loaner_request</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_cdltd_loaner_r_0.loaner_request_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-14 04:26:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>75377d1259f003107f44ccfad0de3e9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">29ad295a59b003107f44ccfad0de3e71</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">29ad295a59b003107f44ccfad0de3e71</sys_scope>
+        <sys_update_name>sys_app_module_75377d1259f003107f44ccfad0de3e9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-14 04:26:35</sys_updated_on>
+        <timeline_page/>
+        <title>Loaner Requests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">29ad295a59b003107f44ccfad0de3e71</application>
+        <file_path/>
+        <instance_id>ceacb01687fc4b18b57eb956dabb354c</instance_id>
+        <instance_name>nowlearning-nlinst04170249-6x8xr-0001</instance_name>
+        <name>sys_app_module_75377d1259f003107f44ccfad0de3e9f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Loaner Request">fd373d1259f003107f44ccfad0de3e1b</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Loaner Requests</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_cdltd_loaner_r_0_loaner_request</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_cdltd_loaner_r_0.loaner_request_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-14 04:26:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>75377d1259f003107f44ccfad0de3e9f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Requests</sys_name><sys_overrides/><sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">29ad295a59b003107f44ccfad0de3e71</sys_package><sys_policy/><sys_scope display_value="Loaner Request">29ad295a59b003107f44ccfad0de3e71</sys_scope><sys_update_name>sys_app_module_75377d1259f003107f44ccfad0de3e9f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-14 04:26:35</sys_updated_on><timeline_page/><title>Loaner Requests</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>911762691</payload_hash>
+        <record_name>Loaner Requests</record_name>
+        <reverted_from/>
+        <source>edad295a59b003107f44ccfad0de3e72</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-14 04:26:35</sys_created_on>
+        <sys_id>39377d1259f003107f44ccfad0de3ea0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e24bc84f20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-14 04:26:35</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b1377d1253f00310f486d0d03ec54fa0</update_guid>
+        <update_guid_history>b1377d1253f00310f486d0d03ec54fa0:911762691</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Requests">a077715259f003107f44ccfad0de3ece</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-14 04:27:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1750b8823b024544b18180194a025f90</sys_id>
+        <sys_metadata>75377d1259f003107f44ccfad0de3e9f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Requests</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">29ad295a59b003107f44ccfad0de3e71</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">29ad295a59b003107f44ccfad0de3e71</sys_scope>
+        <sys_scope_delete display_value="">1936172a595a4180a55d7ff84fe6d310</sys_scope_delete>
+        <sys_update_name>sys_app_module_75377d1259f003107f44ccfad0de3e9f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_75377d1259f003107f44ccfad0de3e9f">39377d1259f003107f44ccfad0de3ea0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-14 04:27:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
