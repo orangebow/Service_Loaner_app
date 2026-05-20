@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="fb97355259f003107f44ccfad0de3e56" extends="task" max_length="40" name="x_cdltd_loaner_r_0_loaner_request" type="collection">
+        <element label="Pick up reminder" max_length="255" name="pick_up_reminder" type="glide_date_time"/>
         <element label="Requested for" mandatory="true" max_length="32" name="requested_fo0" reference="sys_user" type="reference"/>
         <element label="other" max_length="40" name="other" type="string"/>
         <element label="Start date" mandatory="true" max_length="255" name="start_date" type="glide_date_time"/>
